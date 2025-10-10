@@ -4,7 +4,7 @@ const cors = require("cors");
 
 const { dbConnect } = require("./config/db");
 const app = express();
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 4001;
 
 const host = "127.0.0.1";
 
