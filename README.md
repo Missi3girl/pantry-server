@@ -1,4 +1,4 @@
-This is the client side of my team's capstone project and my first full stack project with complete branding.
+This is the server side of my team's capstone project and my first full stack project with complete branding.
 I was honored to be the Scrum Master on this project.
 Though it was originally built as a team project for a software development boot camp,
 this version will update periodically to include my personal enhancements and refactoring.
@@ -9,3 +9,4 @@ but this app is scalable and I have high goals for extension and possible publis
 
 Please use the git command, npm run dev, in your terminal,
 and http://localhost:4001 in your browswer, to view the app live.
+The database is connected to MongoDB Atlas, the connections string is in my .env file. 
